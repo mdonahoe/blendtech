@@ -25,3 +25,10 @@ scripts for Blender
     I vaguely remember reading that it was desired for rapid serialization.
 
 
+###Goals
+
+1. grid of blocks
+2. grid of blocks with heights set to a function
+3. block simulation
+4. clickable blocks?
+5. attach to the live enviroment and write python while it is running
